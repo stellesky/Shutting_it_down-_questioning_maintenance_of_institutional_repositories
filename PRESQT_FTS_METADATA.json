@@ -1,0 +1,140 @@
+{
+    "allKeywords": [
+        "repository software",
+        "maintenance in libraries",
+        "software maintenance",
+        "sustainability",
+        "institutional repositories",
+        "digital repositories",
+        "academic libraries"
+    ],
+    "actions": [
+        {
+            "id": "3410e5eb-0bf2-4f91-bd39-38e5cb6d734f",
+            "details": "PresQT Transfer from OSF to GitHub",
+            "actionDateTime": "2021-01-24 16:09:29.454351+00:00",
+            "actionType": "resource_transfer_in",
+            "sourceTargetName": "osf",
+            "sourceUsername": "Estelle Pope",
+            "destinationTargetName": "github",
+            "destinationUsername": "stellesky",
+            "keywords": {
+                "sourceKeywordsAdded": [
+                    "repository software",
+                    "maintenance in libraries",
+                    "software maintenance",
+                    "sustainability",
+                    "institutional repositories",
+                    "digital repositories",
+                    "academic libraries"
+                ],
+                "sourceKeywordsEnhanced": [],
+                "ontologies": [],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [
+                    {
+                        "destinationPath": "/Shutting_it_down-_questioning_maintenance_of_institutional_repositories/osfstorage/shutting_in_down_-_slides.pdf",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "300dc45fbd75e9ed4352fa7534e178d1",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "shutting in down - slides.pdf",
+                        "sourceHashes": {
+                            "md5": "300dc45fbd75e9ed4352fa7534e178d1",
+                            "sha256": "d9afd9bc8e2c4acfc800164e43ece135c48b33be7a87ee6576925dd8f0afcc5d"
+                        },
+                        "sourcePath": "/Shutting it down: questioning maintenance of institutional repositories/osfstorage/shutting in down - slides.pdf",
+                        "extra": {
+                            "id": "5dfcd8ca0236b8000b75c496",
+                            "parent_project_id": "sn58m",
+                            "endpoint": "https://api.osf.io/v2/files/5dfcd8ca0236b8000b75c496/",
+                            "download_url": "https://files.osf.io/v1/resources/sn58m/providers/osfstorage/5dfcd8ca0236b8000b75c496",
+                            "upload_url": "https://files.osf.io/v1/resources/sn58m/providers/osfstorage/5dfcd8ca0236b8000b75c496",
+                            "delete_url": "https://files.osf.io/v1/resources/sn58m/providers/osfstorage/5dfcd8ca0236b8000b75c496",
+                            "last_touched": null,
+                            "date_modified": "2019-12-20T14:20:59.059533Z",
+                            "current_version": 1,
+                            "date_created": "2019-12-20T14:20:59.059533Z",
+                            "provider": "osfstorage",
+                            "path": "/5dfcd8ca0236b8000b75c496",
+                            "current_user_can_comment": true,
+                            "guid": "m6dpf",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 420063
+                        }
+                    },
+                    {
+                        "destinationPath": "/Shutting_it_down-_questioning_maintenance_of_institutional_repositories/osfstorage/shutting_it_down_-_pope_-_maintainers_iii.pdf",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "5809f4acc234ea0c162cb815b6cfbce5",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "shutting it down - pope - maintainers iii.pdf",
+                        "sourceHashes": {
+                            "md5": "5809f4acc234ea0c162cb815b6cfbce5",
+                            "sha256": "72c9f2a0afae4104c5285eb11cc3bed18765bed569f00955747d0df41a10bea7"
+                        },
+                        "sourcePath": "/Shutting it down: questioning maintenance of institutional repositories/osfstorage/shutting it down - pope - maintainers iii.pdf",
+                        "extra": {
+                            "id": "5dfcd88ffad251000a6b6726",
+                            "parent_project_id": "sn58m",
+                            "endpoint": "https://api.osf.io/v2/files/5dfcd88ffad251000a6b6726/",
+                            "download_url": "https://files.osf.io/v1/resources/sn58m/providers/osfstorage/5dfcd88ffad251000a6b6726",
+                            "upload_url": "https://files.osf.io/v1/resources/sn58m/providers/osfstorage/5dfcd88ffad251000a6b6726",
+                            "delete_url": "https://files.osf.io/v1/resources/sn58m/providers/osfstorage/5dfcd88ffad251000a6b6726",
+                            "last_touched": null,
+                            "date_modified": "2019-12-20T14:19:59.925561Z",
+                            "current_version": 1,
+                            "date_created": "2019-12-20T14:19:59.925561Z",
+                            "provider": "osfstorage",
+                            "path": "/5dfcd88ffad251000a6b6726",
+                            "current_user_can_comment": true,
+                            "guid": "tgqyd",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 119346
+                        }
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ],
+    "extra_metadata": {
+        "title": "Shutting it down: questioning maintenance of institutional repositories",
+        "creators": [
+            {
+                "first_name": "Estelle",
+                "last_name": "Pope",
+                "ORCID": null
+            }
+        ],
+        "publication_date": "2019-12-20T14:17:36.985241",
+        "description": "Paper and presentation given at Maintainers III conference",
+        "keywords": [
+            "academic libraries",
+            "digital repositories",
+            "institutional repositories",
+            "maintenance in libraries",
+            "repository software",
+            "software maintenance",
+            "sustainability"
+        ],
+        "license": null,
+        "related_identifiers": [],
+        "references": null,
+        "notes": null
+    }
+}
